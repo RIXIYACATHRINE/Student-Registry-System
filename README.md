@@ -17,7 +17,7 @@ A simple, console-based **Java application** that allows users to manage student
 
 ## 🛠️ Technologies Used
 
-- **Java 17+**
+- **Java**
 - **HashMap (Java Collections Framework)**
 - **Scanner (for input handling)**
 - **Object-Oriented Programming (OOP)**
@@ -64,11 +64,13 @@ A simple, console-based **Java application** that allows users to manage student
 4. Delete Student
 5. Search Student
 6. Exit
+
 Enter your choice: 1
 Enter ID: 101
 Enter Name: Alice
 Enter Age: 20
 Enter Course: Java Programming
+
 ✅ Student added successfully!
 
 
